@@ -1,0 +1,299 @@
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe.config
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.AssemblyReference.cache
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmLogin.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmRegister.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Properties.Resources.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.GenerateResource.cache
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.CoreCompileInputs.cache
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.exe
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.Gax.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.Core.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.LongRunning.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Protobuf.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Auth.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Core.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Buffers.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.CodeDom.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Linq.Async.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Memory.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.ValueTuple.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.Gax.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.Gax.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.Core.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Apis.Core.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.LongRunning.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.LongRunning.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Protobuf.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Google.Protobuf.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Auth.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Auth.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Core.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Core.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Buffers.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.CodeDom.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Linq.Async.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Memory.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\System.ValueTuple.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.CopyComplete
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe.manifest
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.application
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmMain.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.exe.manifest
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.application
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe.config
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe.manifest
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.application
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Core.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.LongRunning.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Protobuf.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Auth.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Buffers.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.CodeDom.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Linq.Async.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Memory.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.ValueTuple.dll
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Core.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Core.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.LongRunning.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.LongRunning.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Protobuf.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Protobuf.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Auth.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Auth.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Buffers.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.CodeDom.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Linq.Async.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Memory.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.ValueTuple.xml
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.AssemblyReference.cache
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmLogin.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmMain.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmRegister.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Properties.Resources.resources
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.GenerateResource.cache
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.CoreCompileInputs.cache
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.exe.manifest
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.application
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.CopyComplete
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.exe
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.pdb
+C:\Users\hendr\Documents\2024 Semester 1\CMPG 315\Poroject\FireDB_Test\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmNewGroup.resources
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe.config
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe.manifest
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.application
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.exe
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\LoginTest_Firebase.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Core.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.LongRunning.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Protobuf.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Auth.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Buffers.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.CodeDom.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Linq.Async.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Memory.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.ValueTuple.dll
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Auth.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Core.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Apis.Core.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Cloud.Location.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.LongRunning.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.LongRunning.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Protobuf.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Google.Protobuf.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Auth.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Auth.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Core.Api.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Client.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Grpc.Net.Common.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Buffers.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.CodeDom.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Linq.Async.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Memory.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\bin\Debug\System.ValueTuple.xml
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.AssemblyReference.cache
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmLogin.resources
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmMain.resources
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmNewGroup.resources
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Forms.frmRegister.resources
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.Properties.Resources.resources
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.GenerateResource.cache
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.CoreCompileInputs.cache
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.exe.manifest
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.application
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.csproj.CopyComplete
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.exe
+C:\Users\27604\Documents\LoginTest_Firebase\LoginTest_Firebase - Copy\LoginTest_Firebase\obj\Debug\LoginTest_Firebase.pdb
